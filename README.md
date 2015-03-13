@@ -1,5 +1,10 @@
 # A Cat Face custom element
 
+## Demo
+
+Check it out:
+[http://www.ssorallen.com/cat-face/](http://www.ssorallen.com/cat-face/)
+
 ## Usage
 
 To embed the whole Cat Face series starting from episode one, just drop in the
