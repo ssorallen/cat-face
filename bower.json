@@ -20,5 +20,8 @@
   ],
   "dependencies": {
     "polymer": "0.8-preview"
+  },
+  "devDependencies": {
+    "webcomponentsjs": "~0.5.5"
   }
 }
