@@ -1,7 +1,7 @@
 {
   "name": "cat-face",
   "version": "0.1.0",
-  "description": "A custom element for delivering happiness via Cat Face episodes",
+  "description": "A custom element for delivering happiness via Cat Face episodes.",
   "main": "cat-face.html",
   "keywords": [
     "catface"
