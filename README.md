@@ -3,7 +3,7 @@
 ## Demo
 
 Check it out:
-[http://www.ssorallen.com/cat-face/](http://www.ssorallen.com/cat-face/)
+[https://ssorallen.github.io/cat-face/](https://ssorallen.github.io/cat-face/)
 
 ## Usage
 
